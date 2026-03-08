@@ -18,13 +18,6 @@ To address these limitations, we propose **Co-Surg**, a novel framework orchestr
 
 ---
 
-## 🏗️ Framework Overview
-
-*(💡 Tip: Add your Figure 2 framework image here! Name it `framework.png`, upload it to your repo, and uncomment the line below)*
-**Co-Surg** uniquely decouples rapid graph drafting ("System 1") from a rigorous verification loop ("System 2"), explicitly managing the asymmetric risk of surgical actions.
-
----
-
 ## 🚀 Release Roadmap (TODO)
 
 Upon acceptance, we will release the following assets to facilitate full reproducibility:
